@@ -1,5 +1,0 @@
-files:
-  - source: /*.html
-    ignore:
-      - /%locale%/*.html
-    translation: '%original_path%/%locale%/%original_file_name%'
