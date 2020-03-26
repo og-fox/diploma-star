@@ -1,0 +1,5 @@
+files:
+  - source: /file samples/*.json
+    ignore:
+      - /files samples/*.csv
+    translation: /file samples/%language%.json
