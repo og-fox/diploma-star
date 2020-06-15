@@ -1,0 +1,3 @@
+files:
+  - source: /file samples/*.xliff
+    translation: '%locale%/%original_path%/%original_file_name%'
