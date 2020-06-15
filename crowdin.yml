@@ -1,3 +1,5 @@
 files:
   - source: /file samples/*.xliff
     translation: '%locale%/%original_path%/%original_file_name%'
+  - source: /file samples/*.po
+    translation: /%locale%/%original_file_name%/%original_file_name%
