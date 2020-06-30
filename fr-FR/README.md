@@ -1,3 +1,2 @@
 # diploma-star
-
 ololo
