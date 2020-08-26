@@ -1,6 +1,7 @@
 files:
   - source: /*.html
     translation: '%original_path%/%original_file_name%'
+    "update_option": "update_as_unapproved"
   - source: file samples/Sample.csv
     translation: /file samples/%locale%.%original_file_name%
     scheme: 'identifier,source_or_translation'
